@@ -174,7 +174,8 @@ hr.small {
 
 .services {
     padding: 50px 0;
-    background: url(../img/zen.png) center center fixed;
+    background-color: #301b1b;
+    /*background: url(../img/zen.png) center center fixed;*/
 }
 
 .service-item {
